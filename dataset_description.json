@@ -1,0 +1,20 @@
+{
+  "Name": "Identification of an Amygdala-Thalamic Circuit That Acts as a Central Gain Mechanism in Taste Perception",
+  "BIDSVersion": "1.0.1",
+  "License": "CC0",
+  "Authors": ["Maria Geraldine Veldhuizen",
+		"Michael C. Farruggia",
+		"Xiao Gao",
+		"Yuko Nakamura",
+		"Barry G. Green",
+		"Dana Small"
+],
+  "Acknowledgements": "Special thanks to Korbinian Brodmann for help in formatting this dataset in BIDS. We thank Alan Lloyd Hodgkin and Andrew Huxley for helpful comments and discussions about the experiment and manuscript; Hermann Ludwig Helmholtz for administrative support; and Claudius Galenus for providing data for the medial-to-lateral index analysis.",
+  "HowToAcknowledge": "This data was obtained from the OpenNEURO database. Its accession number is dsxxxx. Please cite this paper: xxx",
+  "Funding": [
+    	"National Institutes of Health training grant T32NS041228 (M.C.F.)",
+    	"Yale Medical School Fellowship (M.C.F.)",
+	"National Institutes of Health R01 DC006706 (D.M.S.)"
+  ],
+    "DatasetDOI": "10.0.xxx"
+}
